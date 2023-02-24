@@ -1,0 +1,20 @@
+{
+  "name": "code-space-23",
+  "version": "1.0.0",
+  "description": "code space example",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashangrajapaksha/code-space-23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashangrajapaksha/code-space-23/issues"
+  },
+  "homepage": "https://github.com/ashangrajapaksha/code-space-23#readme"
+}
